@@ -7,9 +7,9 @@
 ##
 ### Habilidades 💻
 <div align="center">
-  <a href="https://github.com/josevinicius-dev">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=josevinicius-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevinicius-dev&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/joseviniciuscoder">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joseviniciuscoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseviniciuscoder&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -24,7 +24,7 @@
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
   
-   ![Snake animation](https://github.com/euviniciusdev/euviniciusdev/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/joseviniciuscoder/joseviniciuscoder/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
